@@ -15,7 +15,7 @@ const chalk = require('chalk')
 global.prefa = ['','!','.','#','&']
 //* FALSE=DISABLE AND TRUE=ENABLE
 global.chataudio = false; //* Enable audio replies
-global.chatbot = true; //* Enable text chatbot
+global.chatbot = false; //* Enable text chatbot
 global.autoRecording = true//* auto recording
 global.autoTyping = true //* auto typing
 global.emojiReact = false; //*  Default: enabled
