@@ -1,14 +1,9 @@
 {
-  "name": "joker max",
-  "version": "1.0.1",
-  "description": "iconic ",
+  "name": "JOKER",
+  "version": "1.0.0",
+  "description": " MULTI DEVICE",
   "main": "index.js",
-  "directories": {
-    "lib": "lib",
-    "database": "database",
-    "session": "session",
-    "media": "media"
-  },
+  "Dev": "iconic_tech",
   "scripts": {
     "start": "node index.js"
   },
@@ -17,7 +12,7 @@
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
-    "baileys": "6.7.18",
+     "baileys": "6.7.18",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.4.0",
     "chalk": "^4.1.2",
@@ -53,6 +48,5 @@
     "yt-search": "^2.13.1",
     "ytdl-core": "^4.11.5",
     "pm2": "^5.2.0"
-  },
-  "developed_by": "ICONIC TECH"
+  }
 }
